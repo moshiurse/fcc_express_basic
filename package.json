@@ -1,0 +1,17 @@
+{
+  "name": "fcc-learn-node-with-express",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "fcc-express-bground": "https://github.com/Em-Ant/fcc-express-bground-pkg.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  }
+}
